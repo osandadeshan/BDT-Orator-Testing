@@ -1,0 +1,105 @@
+21:44:50.179 Got a kill message. Killing runner.
+22:41:43.293 Killing Gauge daemon. Parent process with pid 4412 has terminated.
+t status 1).
+21:48:40.925 Error while killing runner: invalid argument
+21:48:40.925 Killing Gauge daemon. Runner with pid 4504 quit unexpectedly(exit status 1).
+22:11:39.659 Checking updates...
+22:11:46.833 # Specification Heading
+22:11:46.837 ## Scenario Heading
+22:11:46.859 * Setting up environment to run Android for Appium
+
+22:11:57.238 * Validate that the application can read the text of "Bullshit"
+
+22:12:05.927 * Closing the driver
+22:12:09.851 Plugin [Html Report] with pid [1748] has exited
+22:12:09.952 Specifications:	1 executed	1 passed	0 failed	0 skipped
+22:12:09.952 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+22:12:09.972 
+Total time taken: 20.966s
+22:12:09.982 Updates are available. Run gauge --check-updates for more info.
+22:21:44.385 Checking updates...
+22:21:50.142 # Specification Heading
+22:21:50.146 ## Scenario Heading
+22:21:50.150 * Setting up environment to run Android for Appium
+
+22:21:58.386 * Validate that the application can read the text 
+
+     |Text To Read |
+     |-------------|
+     |Zocor        |
+     |Synthroid    |
+     |Hydrocodon...|
+     |Azithromyc...|
+     |Hydrochlor...|
+22:22:59.165 * Closing the driver
+22:23:00.856 Plugin [Html Report] with pid [3904] has exited
+22:23:00.958 Specifications:	1 executed	1 passed	0 failed	0 skipped
+22:23:00.958 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+22:23:00.958 
+Total time taken: 1m10.659s
+22:23:00.958 Updates are available. Run gauge --check-updates for more info.
+22:30:40.987 Checking updates...
+22:30:46.444 # Speak Test Specification
+22:30:46.451 ## TTS Testing Scenario
+22:30:46.458 * Setting up environment to run Android in Appium
+
+22:30:54.548 * Validate that the application can read the text 
+
+     |Text To Speech                        |
+     |--------------------------------------|
+     |Behavioral Driven Testing using Appium|
+     |Mitra Innovation                      |
+     |Software Test Automation              |
+     |Gauge Framework                       |
+     |Selenium Java                         |
+22:31:57.067 * Closing the driver
+22:31:58.856 Plugin [Html Report] with pid [1180] has exited
+22:31:58.957 Specifications:	1 executed	1 passed	0 failed	0 skipped
+22:31:58.957 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+22:31:58.957 
+Total time taken: 1m12.297s
+22:31:58.957 Updates are available. Run gauge --check-updates for more info.
+22:35:43.697 Checking updates...
+22:35:52.705 # Speak Test Specification
+22:35:52.710 ## TTS Testing Scenario
+22:35:52.715 * Setting up environment to run Android in Appium
+
+22:36:02.461 * Validate that the application can read the text 
+
+     |Text To Speech                        |
+     |--------------------------------------|
+     |Behavioral Driven Testing using Appium|
+     |Mitra Innovation                      |
+     |Software Test Automation              |
+     |Gauge Framework                       |
+     |Selenium Java                         |
+22:37:03.570 * Closing the driver
+22:37:05.467 Plugin [Html Report] with pid [268] has exited
+22:37:05.568 Specifications:	1 executed	1 passed	0 failed	0 skipped
+22:37:05.568 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+22:37:05.568 
+Total time taken: 1m12.686s
+22:37:05.568 Updates are available. Run gauge --check-updates for more info.
+22:38:03.024 Got a kill message. Killing runner.
+22:38:07.122 Killing runner with PID:4756 forcefully
+22:39:31.553 Checking updates...
+22:39:38.058 # Speak Test Specification
+22:39:38.062 ## TTS Testing Scenario
+22:39:38.067 * Setting up environment to run Android in Appium
+
+22:39:46.709 * Validate that the application can read the text 
+
+     |Text To Speech                        |
+     |--------------------------------------|
+     |Behavioral Driven Testing using Appium|
+     |Mitra Innovation                      |
+     |Software Test Automation              |
+     |Gauge Framework                       |
+     |Selenium Java                         |
+22:40:48.982 * Closing the driver
+22:40:50.676 Plugin [Html Report] with pid [8424] has exited
+22:40:50.778 Specifications:	1 executed	1 passed	0 failed	0 skipped
+22:40:50.778 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+22:40:50.778 
+Total time taken: 1m12.583s
+22:40:50.778 Updates are available. Run gauge --check-updates for more info.
