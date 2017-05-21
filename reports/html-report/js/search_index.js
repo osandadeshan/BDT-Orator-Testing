@@ -1,1 +1,1 @@
-var index = {"tags":{},"specs":{"Speak Test Specification":["specs\\SpeakTest.html"]}};
+var index = {"Tags":{},"Specs":{"Speak Test Specification":["specs\\SpeakTest.html"]}};
