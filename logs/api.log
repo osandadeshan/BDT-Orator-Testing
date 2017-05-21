@@ -12034,3 +12034,30 @@ ppium" parameterizedStepValue:"Setting up environment to run Android for Appium"
 11:18:06.753 Sending API response: messageType:UnsupportedApiMessageResponse messageId:4 unsupportedApiMessageResponse:<> 
 11:18:06.770 Api Request Received: messageType:GetStepValueResponse messageId:4 stepValueRequest:<stepText:"Closing the driver" > 
 11:18:06.770 Sending API response: messageType:UnsupportedApiMessageResponse messageId:4 unsupportedApiMessageResponse:<> 
+20:03:02.818 Failed to start execution API Service. GAUGE_API_V2_PORT Environment variable not set 
+20:03:02.819 Watching directory: C:\Users\Osanda Deshan\IdeaProjects\BDT-Orator-Testing\specs
+20:03:02.820 Found 1 files
+20:03:02.822 Initializing concepts cache with 0 concepts
+20:03:02.823 Initializing specs cache with 1 specs
+20:03:02.823 Adding specs from C:\Users\Osanda Deshan\IdeaProjects\BDT-Orator-Testing\specs\SpeakTest.spec
+20:03:02.823 Initializing steps cache with 2 steps
+20:03:11.766 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Validate that the application can read the text <table>" > 
+20:03:11.767 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Validate that the application can read the text {}" parameterizedStepValue:"Validate that the application can read the text <table>" parameters:"table" > > 
+20:03:11.807 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Setting up environment to run Android in Appium" > 
+20:03:11.807 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Setting up environment to run Android in Appium" parameterizedStepValue:"Setting up environment to run Android in Appium" > > 
+20:03:11.811 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Closing the driver" > 
+20:03:11.811 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Closing the driver" parameterizedStepValue:"Closing the driver" > > 
+20:03:39.268 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Setting up environment to run Android in Appium" > 
+20:03:39.268 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Setting up environment to run Android in Appium" parameterizedStepValue:"Setting up environment to run Android in Appium" > > 
+20:03:39.289 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Closing the driver" > 
+20:03:39.290 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Closing the driver" parameterizedStepValue:"Closing the driver" > > 
+20:03:47.188 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Validate that the application can read the text <table>" > 
+20:03:47.188 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Validate that the application can read the text {}" parameterizedStepValue:"Validate that the application can read the text <table>" parameters:"table" > > 
+20:03:47.206 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Validate that the application can read the text" hasInlineTable:true > 
+20:03:47.207 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Validate that the application can read the text {}" parameterizedStepValue:"Validate that the application can read the text <table>" parameters:"table" > > 
+20:04:26.386 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Validate that the application can read the text <table>" > 
+20:04:26.386 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Validate that the application can read the text {}" parameterizedStepValue:"Validate that the application can read the text <table>" parameters:"table" > > 
+20:04:26.403 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Setting up environment to run Android in Appium" > 
+20:04:26.403 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Setting up environment to run Android in Appium" parameterizedStepValue:"Setting up environment to run Android in Appium" > > 
+20:04:26.404 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Closing the driver" > 
+20:04:26.405 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Closing the driver" parameterizedStepValue:"Closing the driver" > > 

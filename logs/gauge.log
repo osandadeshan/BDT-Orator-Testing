@@ -161,3 +161,26 @@ Total time taken: 1m12.623s
 11:16:31.140 
 Total time taken: 1m12.368s
 11:16:31.140 Updates are available. Run gauge --check-updates for more info.
+20:03:03.310 Got a kill message. Killing runner.
+20:03:07.346 Killing runner with PID:4620 forcefully
+20:04:20.210 Checking updates...
+20:04:26.894 # Speak Test Specification
+20:04:26.898 ## TTS Testing Scenario
+20:04:26.935 * Setting up environment to run Android in Appium
+
+20:04:37.958 * Validate that the application can read the text 
+
+     |Text To Speech                        |
+     |--------------------------------------|
+     |Behavioral Driven Testing using Appium|
+     |Mitra Innovation                      |
+     |Software Test Automation              |
+     |Gauge Framework                       |
+     |Selenium Java                         |
+20:05:39.037 * Closing the driver
+20:05:41.200 Plugin [Html Report] with pid [7372] has exited
+20:05:41.300 Specifications:	1 executed	1 passed	0 failed	0 skipped
+20:05:41.300 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+20:05:41.304 
+Total time taken: 1m14.175s
+20:05:41.314 Updates are available. Run gauge --check-updates for more info.
