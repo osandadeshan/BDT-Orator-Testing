@@ -103,3 +103,61 @@ Total time taken: 1m12.686s
 22:40:50.778 
 Total time taken: 1m12.583s
 22:40:50.778 Updates are available. Run gauge --check-updates for more info.
+10:40:18.622 Got a kill message. Killing runner.
+10:40:22.712 Killing runner with PID:8480 forcefully
+11:07:15.205 Checking updates...
+11:07:20.031 # Speak Test Specification
+11:07:20.035 ## TTS Testing Scenario
+11:07:20.043 * Setting up environment to run Android in Appium
+
+11:07:30.429 * Validate that the application can read the text <table:/resources/TextToSpeech.csv>
+
+11:08:32.507 * Closing the driver
+11:08:34.493 Plugin [Html Report] with pid [7648] has exited
+11:08:34.594 Specifications:	1 executed	1 passed	0 failed	0 skipped
+11:08:34.594 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+11:08:34.609 
+Total time taken: 1m14.364s
+11:08:34.618 Updates are available. Run gauge --check-updates for more info.
+11:12:18.226 Checking updates...
+11:12:23.916 # Speak Test Specification
+11:12:23.921 ## TTS Testing Scenario
+11:12:23.927 * Setting up environment to run Android in Appium
+
+11:12:32.285 * Validate that the application can read the text 
+
+     |Text To Speech                        |
+     |--------------------------------------|
+     |Behavioral Driven Testing using Appium|
+     |Mitra Innovation                      |
+     |Software Test Automation              |
+     |Gauge Framework                       |
+     |Selenium Java                         |
+11:13:34.889 * Closing the driver
+11:13:36.546 Plugin [Html Report] with pid [2968] has exited
+11:13:36.715 Specifications:	1 executed	1 passed	0 failed	0 skipped
+11:13:36.715 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+11:13:36.715 
+Total time taken: 1m12.623s
+11:13:36.715 Updates are available. Run gauge --check-updates for more info.
+11:15:12.465 Checking updates...
+11:15:18.557 # Speak Test Specification
+11:15:18.561 ## TTS Testing Scenario
+11:15:18.565 * Setting up environment to run Android in Appium
+
+11:15:26.862 * Validate that the application can read the text 
+
+     |Text To Speech                        |
+     |--------------------------------------|
+     |Behavioral Driven Testing using Appium|
+     |Mitra Innovation                      |
+     |Software Test Automation              |
+     |Gauge Framework                       |
+     |Selenium Java                         |
+11:16:29.290 * Closing the driver
+11:16:31.038 Plugin [Html Report] with pid [2096] has exited
+11:16:31.140 Specifications:	1 executed	1 passed	0 failed	0 skipped
+11:16:31.140 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+11:16:31.140 
+Total time taken: 1m12.368s
+11:16:31.140 Updates are available. Run gauge --check-updates for more info.
