@@ -41,7 +41,6 @@ public class TestScenario {
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
-            //createProductPage.create(row.getCell(columnNames.get(0)), row.getCell(columnNames.get(1)), row.getCell(columnNames.get(2)), row.getCell(columnNames.get(3)));
         }
 
     }

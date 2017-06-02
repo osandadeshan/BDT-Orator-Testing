@@ -184,3 +184,27 @@ Total time taken: 1m12.368s
 20:05:41.304 
 Total time taken: 1m14.175s
 20:05:41.314 Updates are available. Run gauge --check-updates for more info.
+13:05:35.863 Checking updates...
+13:07:13.113 [ValidationError] C:\Users\Osanda\IdeaProjects\BDT-Orator-Testing\specs\SpeakTest.spec:8 Request Timeout => 'Setting up environment to run Android in Appium'
+13:07:13.149 [ValidationError] C:\Users\Osanda\IdeaProjects\BDT-Orator-Testing\specs\SpeakTest.spec:14 Request Timeout => 'Validate that the application can read the text <table>'
+13:07:13.149 [ValidationError] C:\Users\Osanda\IdeaProjects\BDT-Orator-Testing\specs\SpeakTest.spec:27 Request Timeout => 'Closing the driver'
+13:07:45.522 Checking updates...
+13:07:54.571 # Speak Test Specification
+13:07:54.573 ## TTS Testing Scenario
+13:07:54.576 * Setting up environment to run Android in Appium
+
+13:08:10.451 * Validate that the application can read the text 
+
+     |Text To Speech                        |
+     |--------------------------------------|
+     |Behavioral Driven Testing using Appium|
+     |Mitra Innovation                      |
+     |Software Test Automation              |
+     |Gauge Framework                       |
+     |Selenium Java                         |
+13:09:13.188 * Closing the driver
+13:09:15.622 Plugin [Html Report] with pid [7400] has exited
+13:09:15.823 Specifications:	1 executed	1 passed	0 failed	0 skipped
+13:09:15.823 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+13:09:15.823 
+Total time taken: 1m20.669s
