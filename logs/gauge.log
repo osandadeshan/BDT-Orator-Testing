@@ -253,3 +253,23 @@ Total time taken: 1m21.342s
 13:02:42.598 Scenarios:	1 executed	1 passed	0 failed	0 skipped
 13:02:42.598 
 Total time taken: 1m17.709s
+18:58:47.400 Checking updates...
+18:58:52.049 # Speak Test Specification
+18:58:52.051 ## TTS Testing Scenario
+18:58:52.054 * Setting up environment to run Android in Appium
+
+18:59:02.407 * Validate that the application can read the text 
+
+     |Text To Speech                        |
+     |--------------------------------------|
+     |Behavioral Driven Testing using Appium|
+     |Mitra Innovation                      |
+     |Software Test Automation              |
+     |Gauge Framework                       |
+     |Selenium Java                         |
+19:00:06.726 * Closing the driver
+19:00:08.861 Plugin [Html Report] with pid [10704] has exited
+19:00:08.964 Specifications:	1 executed	1 passed	0 failed	0 skipped
+19:00:08.964 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+19:00:08.964 
+Total time taken: 1m16.731s

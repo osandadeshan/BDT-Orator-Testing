@@ -8,7 +8,6 @@ import pages.OratorPage;
 import java.io.IOException;
 import java.net.MalformedURLException;
 import java.util.List;
-
 import static scenarios.AndroidSetup.driver;
 
 /**
