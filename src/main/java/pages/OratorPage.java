@@ -10,8 +10,6 @@ import org.openqa.selenium.support.How;
 
 public class OratorPage {
 
-    String app_package_name = "maxsoft.osanda.com.oratortextreader:id/";
-
     @FindBy(how= How.ID, using="maxsoft.osanda.com.oratortextreader:id/txtText")
     WebElement txtField;
     @FindBy(how= How.ID, using="maxsoft.osanda.com.oratortextreader:id/btnSpeak")

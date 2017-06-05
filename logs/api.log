@@ -12143,3 +12143,95 @@ ppium" parameterizedStepValue:"Setting up environment to run Android for Appium"
 18:58:51.863 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Setting up environment to run Android in Appium" parameterizedStepValue:"Setting up environment to run Android in Appium" > > 
 18:58:51.864 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Closing the driver" > 
 18:58:51.864 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Closing the driver" parameterizedStepValue:"Closing the driver" > > 
+21:47:39.167 Failed to start execution API Service. GAUGE_API_V2_PORT Environment variable not set 
+21:47:39.176 Watching directory: C:\Users\Osanda\IdeaProjects\BDT-Orator-Testing\specs
+21:47:39.176 Found 1 files
+21:47:39.209 Initializing concepts cache with 0 concepts
+21:47:39.224 Initializing specs cache with 1 specs
+21:47:39.224 Adding specs from C:\Users\Osanda\IdeaProjects\BDT-Orator-Testing\specs\SpeakTest.spec
+21:47:39.224 Initializing steps cache with 1 steps
+21:47:44.906 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Validate that the application can read the text <table>" > 
+21:47:44.906 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Validate that the application can read the text {}" parameterizedStepValue:"Validate that the application can read the text <table>" parameters:"table" > > 
+21:47:44.907 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Validate that the application can read the text" hasInlineTable:true > 
+21:47:44.908 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Validate that the application can read the text {}" parameterizedStepValue:"Validate that the application can read the text <table>" parameters:"table" > > 
+22:00:53.337 Spec file removed: C:\Users\Osanda\IdeaProjects\BDT-Orator-Testing\specs\SpeakTest.spec
+22:00:53.340 Spec file added / modified: C:\Users\Osanda\IdeaProjects\BDT-Orator-Testing\specs\SpeakTest.spec
+22:01:20.753 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Closing the driver" > 
+22:01:20.756 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Closing the driver" parameterizedStepValue:"Closing the driver" > > 
+22:01:20.767 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Validate that the application can read the text <table>" > 
+22:01:20.767 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Validate that the application can read the text {}" parameterizedStepValue:"Validate that the application can read the text <table>" parameters:"table" > > 
+22:01:20.769 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Setting up environment to run Android in Appium" > 
+22:01:20.769 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Setting up environment to run Android in Appium" parameterizedStepValue:"Setting up environment to run Android in Appium" > > 
+22:04:52.643 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Closing the driver" > 
+22:04:52.644 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Closing the driver" parameterizedStepValue:"Closing the driver" > > 
+22:04:52.654 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Validate that the application can read the text <table>" > 
+22:04:52.654 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Validate that the application can read the text {}" parameterizedStepValue:"Validate that the application can read the text <table>" parameters:"table" > > 
+22:04:52.656 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Setting up environment to run Android in Appium" > 
+22:04:52.656 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Setting up environment to run Android in Appium" parameterizedStepValue:"Setting up environment to run Android in Appium" > > 
+22:09:00.280 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Closing the driver" > 
+22:09:00.280 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Closing the driver" parameterizedStepValue:"Closing the driver" > > 
+22:09:00.293 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Validate that the application can read the text <table>" > 
+22:09:00.293 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Validate that the application can read the text {}" parameterizedStepValue:"Validate that the application can read the text <table>" parameters:"table" > > 
+22:11:30.838 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Closing the driver" > 
+22:11:30.839 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Closing the driver" parameterizedStepValue:"Closing the driver" > > 
+22:11:30.852 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Validate that the application can read the text <table>" > 
+22:11:30.852 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Validate that the application can read the text {}" parameterizedStepValue:"Validate that the application can read the text <table>" parameters:"table" > > 
+22:14:52.673 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Closing the driver" > 
+22:14:52.673 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Closing the driver" parameterizedStepValue:"Closing the driver" > > 
+22:14:52.694 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Validate that the application can read the text <table>" > 
+22:14:52.694 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Validate that the application can read the text {}" parameterizedStepValue:"Validate that the application can read the text <table>" parameters:"table" > > 
+22:19:12.285 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Closing the driver" > 
+22:19:12.285 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Closing the driver" parameterizedStepValue:"Closing the driver" > > 
+22:19:12.309 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Validate that the application can read the text <table>" > 
+22:19:12.309 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Validate that the application can read the text {}" parameterizedStepValue:"Validate that the application can read the text <table>" parameters:"table" > > 
+22:20:50.574 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Closing the driver" > 
+22:20:50.574 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Closing the driver" parameterizedStepValue:"Closing the driver" > > 
+22:20:50.586 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Validate that the application can read the text <table>" > 
+22:20:50.586 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Validate that the application can read the text {}" parameterizedStepValue:"Validate that the application can read the text <table>" parameters:"table" > > 
+22:21:33.625 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Closing the driver" > 
+22:21:33.625 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Closing the driver" parameterizedStepValue:"Closing the driver" > > 
+22:21:33.640 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Validate that the application can read the text <table>" > 
+22:21:33.640 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Validate that the application can read the text {}" parameterizedStepValue:"Validate that the application can read the text <table>" parameters:"table" > > 
+22:22:15.348 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Closing the driver" > 
+22:22:15.351 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Closing the driver" parameterizedStepValue:"Closing the driver" > > 
+22:22:15.366 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Validate that the application can read the text <table>" > 
+22:22:15.366 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Validate that the application can read the text {}" parameterizedStepValue:"Validate that the application can read the text <table>" parameters:"table" > > 
+22:25:12.985 Spec file removed: C:\Users\Osanda\IdeaProjects\BDT-Orator-Testing\specs\SpeakTest.spec
+22:25:13.100 Spec file added / modified: C:\Users\Osanda\IdeaProjects\BDT-Orator-Testing\specs\SpeakTest.spec
+22:25:22.102 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Closing the driver" > 
+22:25:22.103 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Closing the driver" parameterizedStepValue:"Closing the driver" > > 
+22:25:22.117 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Validate that the application can read the text <table>" > 
+22:25:22.117 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Validate that the application can read the text {}" parameterizedStepValue:"Validate that the application can read the text <table>" parameters:"table" > > 
+22:27:41.814 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Closing the driver" > 
+22:27:41.815 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Closing the driver" parameterizedStepValue:"Closing the driver" > > 
+22:27:41.826 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Validate that the application can read the text <table>" > 
+22:27:41.826 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Validate that the application can read the text {}" parameterizedStepValue:"Validate that the application can read the text <table>" parameters:"table" > > 
+22:29:50.919 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Closing the driver" > 
+22:29:50.919 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Closing the driver" parameterizedStepValue:"Closing the driver" > > 
+22:29:50.931 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Validate that the application can read the text <table>" > 
+22:29:50.931 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Validate that the application can read the text {}" parameterizedStepValue:"Validate that the application can read the text <table>" parameters:"table" > > 
+22:32:20.428 Failed to start execution API Service. GAUGE_API_V2_PORT Environment variable not set 
+22:32:20.430 Watching directory: C:\Users\Osanda\IdeaProjects\BDT-Orator-Testing\specs
+22:32:20.430 Found 1 files
+22:32:20.433 Initializing concepts cache with 0 concepts
+22:32:20.433 Initializing specs cache with 1 specs
+22:32:20.433 Adding specs from C:\Users\Osanda\IdeaProjects\BDT-Orator-Testing\specs\SpeakTest.spec
+22:32:20.433 Initializing steps cache with 1 steps
+22:36:13.179 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Closing the driver" > 
+22:36:13.180 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Closing the driver" parameterizedStepValue:"Closing the driver" > > 
+22:36:13.192 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Validate that the application can read the text <table>" > 
+22:36:13.192 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Validate that the application can read the text {}" parameterizedStepValue:"Validate that the application can read the text <table>" parameters:"table" > > 
+22:41:00.829 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Closing the driver" > 
+22:41:00.831 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Closing the driver" parameterizedStepValue:"Closing the driver" > > 
+22:41:00.842 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Validate that the application can read the text <table>" > 
+22:41:00.842 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Validate that the application can read the text {}" parameterizedStepValue:"Validate that the application can read the text <table>" parameters:"table" > > 
+22:49:46.211 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Validate that the application can read the text <table>" > 
+22:49:46.212 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Validate that the application can read the text {}" parameterizedStepValue:"Validate that the application can read the text <table>" parameters:"table" > > 
+22:49:46.224 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Closing the driver" > 
+22:49:46.224 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Closing the driver" parameterizedStepValue:"Closing the driver" > > 
+22:57:53.857 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Validate that the application can read the text <table>" > 
+22:57:53.858 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Validate that the application can read the text {}" parameterizedStepValue:"Validate that the application can read the text <table>" parameters:"table" > > 
+22:57:53.869 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Closing the driver" > 
+22:57:53.869 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Closing the driver" parameterizedStepValue:"Closing the driver" > > 
+22:59:59.601 Spec file removed: C:\Users\Osanda\IdeaProjects\BDT-Orator-Testing\specs\SpeakTest.spec
+22:59:59.601 Spec file added / modified: C:\Users\Osanda\IdeaProjects\BDT-Orator-Testing\specs\SpeakTest.spec

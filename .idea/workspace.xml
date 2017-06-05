@@ -2,31 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee66c582-6eee-4c55-8ff8-7736a29c2fea" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/app.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/utilities/PropertyReader.java" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/pages/OratorPage.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/scenarios/AndroidSetup.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/scenarios/TestScenario.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/utilities/PropertyReader.class" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/utilities/PropertyReader.java" afterPath="$PROJECT_DIR$/src/main/java/utilities/PropertyReader.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/scenarios/TestScenario.class" afterPath="$PROJECT_DIR$/target/test-classes/scenarios/TestScenario.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gauge/failures.json" afterPath="$PROJECT_DIR$/.gauge/failures.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/scenarios/AndroidSetup.java" afterPath="$PROJECT_DIR$/src/test/java/stepImpl/AndroidSetup.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/scenarios/TestScenario.java" afterPath="$PROJECT_DIR$/src/test/java/stepImpl/TestSpec.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDT_Orator_Testing.iml" afterPath="$PROJECT_DIR$/BDT_Orator_Testing.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/default/default.properties" afterPath="$PROJECT_DIR$/env/default/default.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/api.log" afterPath="$PROJECT_DIR$/logs/api.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/gauge.log" afterPath="$PROJECT_DIR$/logs/gauge.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/html-report/css/font-awesome.css" afterPath="$PROJECT_DIR$/reports/html-report/css/font-awesome.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/html-report/css/normalize.css" afterPath="$PROJECT_DIR$/reports/html-report/css/normalize.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/html-report/css/open-sans.css" afterPath="$PROJECT_DIR$/reports/html-report/css/open-sans.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/html-report/css/style.css" afterPath="$PROJECT_DIR$/reports/html-report/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/html-report/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/reports/html-report/fonts/fontawesome-webfont.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Bold/OpenSans-Bold.svg" afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Bold/OpenSans-Bold.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/BoldItalic/OpenSans-BoldItalic.svg" afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/BoldItalic/OpenSans-BoldItalic.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Italic/OpenSans-Italic.svg" afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Italic/OpenSans-Italic.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Light/OpenSans-Light.svg" afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Light/OpenSans-Light.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Regular/OpenSans-Regular.svg" afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Regular/OpenSans-Regular.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/html-report/index.html" afterPath="$PROJECT_DIR$/reports/html-report/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/html-report/js/auto-complete.min.js" afterPath="$PROJECT_DIR$/reports/html-report/js/auto-complete.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/html-report/js/clipboard.min.js" afterPath="$PROJECT_DIR$/reports/html-report/js/clipboard.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/html-report/js/jquery-3.1.0.min.js" afterPath="$PROJECT_DIR$/reports/html-report/js/jquery-3.1.0.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/html-report/js/main.js" afterPath="$PROJECT_DIR$/reports/html-report/js/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/html-report/specs/SpeakTest.html" afterPath="$PROJECT_DIR$/reports/html-report/specs/SpeakTest.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/scenarios/TestScenario.java" afterPath="$PROJECT_DIR$/src/test/java/scenarios/TestScenario.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/html-report/specs/Test.html" afterPath="$PROJECT_DIR$/reports/html-report/specs/Test.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/specs/SpeakTest.spec" afterPath="$PROJECT_DIR$/specs/SpeakTest.spec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/pages/OratorPage.java" afterPath="$PROJECT_DIR$/src/main/java/pages/OratorPage.java" />
     </list>
     <ignored path="BDT-Orator-Testing.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -51,21 +45,20 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="20" lean-forward="false" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+            <state relative-caret-position="493">
+              <caret line="29" column="36" lean-forward="false" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestScenario.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/scenarios/TestScenario.java">
+      <file leaf-file-name="TestSpec.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/stepImpl/TestSpec.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="35" lean-forward="false" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+            <state relative-caret-position="289">
+              <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
               <folding>
-                <element signature="e#1373#1374#0" expanded="true" />
-                <element signature="e#1402#1403#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -74,8 +67,8 @@
       <file leaf-file-name="OratorPage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pages/OratorPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="34" lean-forward="false" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+            <state relative-caret-position="65">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -83,49 +76,57 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SpeakTest.spec" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SpeakTest.spec" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/specs/SpeakTest.spec">
           <provider editor-type-id="MarkdownPreview">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="20" lean-forward="false" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+            <state relative-caret-position="323">
+              <caret line="19" column="87" lean-forward="false" selection-start-line="19" selection-start-column="87" selection-end-line="19" selection-end-column="87" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PropertyReader.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/utilities/PropertyReader.java">
+      <file leaf-file-name="default.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/env/default/default.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="247">
+              <caret line="24" column="11" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="11" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/app.properties">
+      <file leaf-file-name="java.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/env/default/java.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="AndroidSetup.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/scenarios/AndroidSetup.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/stepImpl/AndroidSetup.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="376">
-              <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+            <state relative-caret-position="-564">
+              <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InstantiationExceptionConstructorAccessorImpl.class" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar!/sun/reflect/InstantiationExceptionConstructorAccessorImpl.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -160,12 +161,19 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/specs/Test.spec" />
         <option value="$PROJECT_DIR$/src/test/java/scenarios/AndroidSetup.java" />
         <option value="$PROJECT_DIR$/src/test/java/pages/OratorPage.java" />
-        <option value="$PROJECT_DIR$/specs/SpeakTest.spec" />
         <option value="$PROJECT_DIR$/src/test/java/scenarios/TestScenario.java" />
+        <option value="$PROJECT_DIR$/resources/app.properties" />
+        <option value="$PROJECT_DIR$/env/default/default.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/utilities/PropertyReader.java" />
+        <option value="$PROJECT_DIR$/src/test/java/stepImpl/TestScenario.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/OratorPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/stepImpl/AndroidSetup.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/stepImpl/TestSpec.java" />
+        <option value="$PROJECT_DIR$/specs/SpeakTest.spec" />
       </list>
     </option>
   </component>
@@ -190,7 +198,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -225,33 +232,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="scenarios" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BDT-Orator-Testing" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BDT-Orator-Testing" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="utilities" />
+              <option name="myItemId" value="stepImpl" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -309,10 +290,29 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BDT-Orator-Testing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BDT-Orator-Testing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="env" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -344,33 +344,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gauge Execution.TTS Testing Scenario (2)">
-    <configuration default="false" name="SpeakTest.spec" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
-      <setting name="environment" value="" />
-      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/SpeakTest.spec" />
-      <setting name="tags" value="" />
-      <setting name="parallelNodes" value="" />
-      <setting name="execInParallel" value="false" />
-      <setting name="programParameters" value="" />
-      <setting name="workingDirectory" value="" />
-      <setting name="moduleName" value="BDT_Orator_Testing" />
-      <envMap />
-      <setting name="rowsRange" value="" />
-      <method />
-    </configuration>
-    <configuration default="false" name="SpeakTest.spec (1)" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
-      <setting name="environment" value="" />
-      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/SpeakTest.spec" />
-      <setting name="tags" value="" />
-      <setting name="parallelNodes" value="" />
-      <setting name="execInParallel" value="false" />
-      <setting name="programParameters" value="" />
-      <setting name="workingDirectory" value="" />
-      <setting name="moduleName" value="BDT_Orator_Testing" />
-      <envMap />
-      <setting name="rowsRange" value="" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Gauge Execution.TTS Testing Scenario (4)">
     <configuration default="false" name="TTS Testing Scenario" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
       <setting name="environment" value="" />
       <setting name="specsToExecute" value="$PROJECT_DIR$/specs/SpeakTest.spec:19" />
@@ -400,6 +374,32 @@
     <configuration default="false" name="TTS Testing Scenario (2)" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
       <setting name="environment" value="" />
       <setting name="specsToExecute" value="$PROJECT_DIR$/specs/SpeakTest.spec:12" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="BDT_Orator_Testing" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TTS Testing Scenario (3)" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/SpeakTest.spec:11" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="BDT_Orator_Testing" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TTS Testing Scenario (4)" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/SpeakTest.spec:9" />
       <setting name="tags" value="" />
       <setting name="parallelNodes" value="" />
       <setting name="execInParallel" value="false" />
@@ -628,19 +628,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Gauge Execution.SpeakTest.spec" />
-      <item index="1" class="java.lang.String" itemvalue="Gauge Execution.SpeakTest.spec (1)" />
-      <item index="2" class="java.lang.String" itemvalue="Gauge Execution.TTS Testing Scenario" />
-      <item index="3" class="java.lang.String" itemvalue="Gauge Execution.TTS Testing Scenario (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Gauge Execution.TTS Testing Scenario (2)" />
+      <item index="0" class="java.lang.String" itemvalue="Gauge Execution.TTS Testing Scenario" />
+      <item index="1" class="java.lang.String" itemvalue="Gauge Execution.TTS Testing Scenario (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Gauge Execution.TTS Testing Scenario (2)" />
+      <item index="3" class="java.lang.String" itemvalue="Gauge Execution.TTS Testing Scenario (3)" />
+      <item index="4" class="java.lang.String" itemvalue="Gauge Execution.TTS Testing Scenario (4)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Gauge Execution.TTS Testing Scenario (2)" />
-        <item index="1" class="java.lang.String" itemvalue="Gauge Execution.TTS Testing Scenario (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Gauge Execution.TTS Testing Scenario" />
-        <item index="3" class="java.lang.String" itemvalue="Gauge Execution.SpeakTest.spec (1)" />
-        <item index="4" class="java.lang.String" itemvalue="Gauge Execution.SpeakTest.spec" />
+        <item index="0" class="java.lang.String" itemvalue="Gauge Execution.TTS Testing Scenario (4)" />
+        <item index="1" class="java.lang.String" itemvalue="Gauge Execution.TTS Testing Scenario (3)" />
+        <item index="2" class="java.lang.String" itemvalue="Gauge Execution.TTS Testing Scenario (2)" />
+        <item index="3" class="java.lang.String" itemvalue="Gauge Execution.TTS Testing Scenario (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Gauge Execution.TTS Testing Scenario" />
       </list>
     </recent_temporary>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
@@ -695,7 +695,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -712,7 +712,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -735,6 +735,42 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/stepImpl/AndroidSetup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="28" lean-forward="false" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar!/sun/reflect/InstantiationExceptionConstructorAccessorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/TextToSpeech.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/OratorPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="34" lean-forward="false" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -743,13 +779,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/scenarios/TestScenario.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/stepImpl/TestSpec.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="48" column="13" lean-forward="false" selection-start-line="48" selection-start-column="13" selection-end-line="49" selection-end-column="8" />
+        <state relative-caret-position="34">
+          <caret line="2" column="35" lean-forward="false" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
           <folding>
-            <element signature="e#1373#1374#0" expanded="true" />
-            <element signature="e#1402#1403#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -764,15 +799,74 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/app.properties">
+    <entry file="file://$PROJECT_DIR$/src/main/java/utilities/PropertyReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        <state relative-caret-position="136">
+          <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/scenarios/AndroidSetup.java">
+    <entry file="file://$PROJECT_DIR$/resources/app.properties" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/stepImpl/AndroidSetup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/TextToSpeech.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specs/SpeakTest.spec">
+      <provider editor-type-id="MarkdownPreview">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="20" lean-forward="false" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="20" lean-forward="false" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/stepImpl/TestSpec.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="13" lean-forward="false" selection-start-line="48" selection-start-column="13" selection-end-line="49" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/OratorPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="34" lean-forward="false" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/app.properties" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/stepImpl/AndroidSetup.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="850">
           <caret line="56" column="18" lean-forward="false" selection-start-line="56" selection-start-column="12" selection-end-line="56" selection-end-column="18" />
@@ -806,13 +900,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/scenarios/TestScenario.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/stepImpl/TestSpec.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="663">
           <caret line="48" column="13" lean-forward="true" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="26" />
           <folding>
-            <element signature="e#1373#1374#0" expanded="true" />
-            <element signature="e#1402#1403#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -828,15 +921,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/app.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/scenarios/AndroidSetup.java">
+    <entry file="file://$PROJECT_DIR$/resources/app.properties" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/stepImpl/AndroidSetup.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="850">
           <caret line="56" column="18" lean-forward="false" selection-start-line="56" selection-start-column="12" selection-end-line="56" selection-end-column="18" />
@@ -872,13 +958,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/scenarios/TestScenario.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/stepImpl/TestSpec.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
           <folding>
-            <element signature="e#1373#1374#0" expanded="true" />
-            <element signature="e#1402#1403#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -910,13 +995,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/scenarios/TestScenario.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/stepImpl/TestSpec.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
           <folding>
-            <element signature="e#1373#1374#0" expanded="true" />
-            <element signature="e#1402#1403#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -940,13 +1024,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/scenarios/TestScenario.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/stepImpl/TestSpec.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
           <folding>
-            <element signature="e#1373#1374#0" expanded="true" />
-            <element signature="e#1402#1403#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -970,13 +1053,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/scenarios/TestScenario.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/stepImpl/TestSpec.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="39" lean-forward="false" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
           <folding>
-            <element signature="e#1373#1374#0" expanded="true" />
-            <element signature="e#1402#1403#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -992,10 +1074,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/resources/app.properties" />
+    <entry file="file://$PROJECT_DIR$/env/default/java.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="20" lean-forward="false" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/reflect/Constructor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="422" column="0" lean-forward="false" selection-start-line="422" selection-start-column="0" selection-end-line="422" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar!/sun/reflect/InstantiationExceptionConstructorAccessorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1008,52 +1106,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/app.properties">
+    <entry file="file://$PROJECT_DIR$/src/main/java/utilities/PropertyReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        <state relative-caret-position="187">
+          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pages/OratorPage.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="34" lean-forward="false" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="493">
+          <caret line="29" column="36" lean-forward="false" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/utilities/PropertyReader.java">
+    <entry file="file://$PROJECT_DIR$/env/default/default.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/scenarios/AndroidSetup.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/scenarios/TestScenario.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="35" lean-forward="false" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
-          <folding>
-            <element signature="e#1373#1374#0" expanded="true" />
-            <element signature="e#1402#1403#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="247">
+          <caret line="24" column="11" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="11" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1062,9 +1135,39 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="20" lean-forward="false" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+        <state relative-caret-position="323">
+          <caret line="19" column="87" lean-forward="false" selection-start-line="19" selection-start-column="87" selection-end-line="19" selection-end-column="87" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/OratorPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/stepImpl/AndroidSetup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-564">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/stepImpl/TestSpec.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

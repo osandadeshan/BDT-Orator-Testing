@@ -1,32 +1,18 @@
-package scenarios;
+package stepImpl;
 
 import com.thoughtworks.gauge.Step;
 import com.thoughtworks.gauge.Table;
 import com.thoughtworks.gauge.TableRow;
 import org.openqa.selenium.support.PageFactory;
 import pages.OratorPage;
-import java.io.IOException;
-import java.net.MalformedURLException;
 import java.util.List;
-import static scenarios.AndroidSetup.driver;
+import static stepImpl.AndroidSetup.driver;
 
 /**
  * Created by Osanda on 4/29/2017.
  */
 
-public class TestScenario {
-
-    @Step("Setting up environment to run Android in Appium")
-    public void setUp(){
-        try {
-            AndroidSetup.prepareAndroidForAppium();
-        } catch (MalformedURLException e) {
-            e.printStackTrace();
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-    }
-
+public class TestSpec {
 
     @Step("Validate that the application can read the text <table>")
     public void oratorSpeakTest(Table table) {
