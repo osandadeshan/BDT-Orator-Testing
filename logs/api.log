@@ -12235,3 +12235,12 @@ ppium" parameterizedStepValue:"Setting up environment to run Android for Appium"
 22:57:53.869 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Closing the driver" parameterizedStepValue:"Closing the driver" > > 
 22:59:59.601 Spec file removed: C:\Users\Osanda\IdeaProjects\BDT-Orator-Testing\specs\SpeakTest.spec
 22:59:59.601 Spec file added / modified: C:\Users\Osanda\IdeaProjects\BDT-Orator-Testing\specs\SpeakTest.spec
+11:06:51.337 Failed to start execution API Service. GAUGE_API_V2_PORT Environment variable not set 
+11:06:51.338 Watching directory: C:\Users\Osanda\IdeaProjects\BDT-Orator-Testing\specs
+11:06:51.339 Found 1 files
+11:06:51.343 Initializing concepts cache with 0 concepts
+11:06:51.344 Initializing specs cache with 1 specs
+11:06:51.344 Adding specs from C:\Users\Osanda\IdeaProjects\BDT-Orator-Testing\specs\SpeakTest.spec
+11:06:51.344 Initializing steps cache with 1 steps
+11:06:55.097 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Validate that the application can read the text <table>" > 
+11:06:55.097 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Validate that the application can read the text {}" parameterizedStepValue:"Validate that the application can read the text <table>" parameters:"table" > > 
